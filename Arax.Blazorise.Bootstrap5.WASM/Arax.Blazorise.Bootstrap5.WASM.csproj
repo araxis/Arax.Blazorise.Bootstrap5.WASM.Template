@@ -47,10 +47,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Blazorise Bootstrap5 WASM.zip">
+    <None Include="Bootstrap5App.zip">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <Content Include="ProjectTemplates\Blazorise Bootstrap5 WASM.zip">
+    <Content Include="ProjectTemplates\Bootstrap5App.zip">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
